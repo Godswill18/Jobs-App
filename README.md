@@ -2,7 +2,7 @@
 
 this Project is a fullstack react project with a local database saved in jobs.json file.
 
-to run the local server run the command " npm run server "
+to run the local server run the command " npm run server " <<<<<<<<<------->>>>>>>>>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

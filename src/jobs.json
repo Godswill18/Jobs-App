@@ -111,6 +111,20 @@
         "contactEmail": "gokhamera@gmail.com",
         "contactPhone": "08123679153"
       }
+    },
+    {
+      "id": "2f10",
+      "title": "Dataflex ERP",
+      "type": "Part-Time",
+      "location": "Lagos nigeria ",
+      "description": "You are to develop an ERP for the company using the following technologies: \nHTML, CSS, Javascript, PHP, MYSQL, node .js, C#, Jango, GO, Rubby",
+      "salary": "$175K - 200K",
+      "company": {
+        "name": "Dataflex nigeria",
+        "description": "Technoly solution Company",
+        "contactEmail": "gokhamera@gmail.com",
+        "contactPhone": "08123679153"
+      }
     }
   ]
 }
